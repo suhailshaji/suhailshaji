@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/mYxaNIP9suGG4murEa/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?color=F7AF27&background=0AFF5100&center=true&vCenter=true&lines=Hi+I'm+Suhail+Shaji;Welcome+to+my+Github+Profile;-%3E+Master's+in+Computer+Application;Wed+Dev)"></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?color=F7AF27&background=0AFF5100&center=true&vCenter=true&lines=Hi+I'm+Suhail+Shaji;Welcome+to+my+Github+Profile;-%3E+Master's+in+Computer+Application;Wed+Dev+ AI Software Engineer)"></a>
 </p>
 
 ---
